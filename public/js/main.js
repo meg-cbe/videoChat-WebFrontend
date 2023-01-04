@@ -22,7 +22,7 @@ var localStreamConstraints = {
 //var room = 'foo';
 
 // Prompting for room name:
-var room = prompt('Enter room name:');
+var room = 121;
 
 //Initializing socket.io
 var socket = io.connect();
